@@ -1,0 +1,1 @@
+Array method practice! See the console log for results.
